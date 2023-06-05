@@ -64,7 +64,7 @@ This is a book collection app with ES6. This app takes book title and author nam
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Developers can use linters to check for errors and bugs. 
+
 
 ### Prerequisites
 
@@ -143,7 +143,6 @@ No deployments required
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
