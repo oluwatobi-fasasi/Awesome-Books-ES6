@@ -54,7 +54,7 @@ This is a book collection app with ES6. This app takes book title and author nam
 <!-- live Demo -->
 ### Live Demo <a name="live-demo"></a>
 
-
+[click here](https://oluwatobi-fasasi.github.io/Awesome-Books-ES6/)
 
 
 
